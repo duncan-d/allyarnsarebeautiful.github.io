@@ -1,3 +1,8 @@
+---
+layout: page
+title: 3 Color Double Bed Jacquard
+permalink: /3-color-dbj/
+---
 # 3 Color DBJ - Using KR-850
 
 ## Cast on ##
@@ -15,11 +20,6 @@
 3. Ribber carriage settings
   * II, no lili, N, N, R, N, N, no lili
   * same tension as main carriage
-
-#### explain how to figure tension - link to tips n tricks up in thread yr machine?
-
-#### (tip about extra needles on ribber when room)
-
 4. While holding yarn under the machine pass carriage from right to left this will form a "zig-zag" row
 5. Hang cast on comb and plenty of weights
 6. Remove wire from comb
@@ -85,3 +85,4 @@ Some fiddling with this made it so that it mostly always cleanly grabs the right
 If your yarns are sticky sometimes another color will try to come along for the ride. 
 
 When knitting smaller pieces especially I usually place my hand on the other colors of yarn to the left of the knitting to help them separate cleanly before getting caught by the first needle.
+
