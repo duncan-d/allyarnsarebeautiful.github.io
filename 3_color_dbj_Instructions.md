@@ -9,6 +9,7 @@ permalink: /3-color-dbj/
 
 1. Thread your machine (including 4 color changer)
   * Use fine knitting bar if available
+![fnb_insert](/assets/3dbj/fnb_insert.jpg)
   * Set needles up for full needle rib
     * Every needle selected
     * Pitch lever set to half
